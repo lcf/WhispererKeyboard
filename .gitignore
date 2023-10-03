@@ -1,0 +1,41 @@
+# Xcode
+##
+build/
+DerivedData/
+*.moved-aside
+*.xcuserstate
+
+# User interface state
+xcuserdata/
+
+# Swift Package Manager
+.build/
+
+# Carthage
+Carthage/Build
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection
+injected_container/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Other common ignores
+*.log
+*.swp
+*.bak
+*.tmp
+*~
+
